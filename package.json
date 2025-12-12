@@ -1,0 +1,21 @@
+{
+  "name": "fiap-nuxt-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page estática utilizando Nuxt e Tailwind CSS",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "nuxt": "^3.13.0"
+  }
+}
